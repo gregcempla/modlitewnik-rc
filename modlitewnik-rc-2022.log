@@ -1,0 +1,1326 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.7)  13 NOV 2024 10:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**modlitewnik-rc-2022.tex
+(./modlitewnik-rc-2022.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen138
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polski/polski.sty
+Package: polski 2021/08/25 v1.3.6 Polish language package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks19
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count192
+\l__color_backend_stack_int=\count193
+\g__color_backend_stack_int=\count194
+\g__graphics_track_int=\count195
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count196
+\g__pdf_backend_annotation_int=\count197
+\g__pdf_backend_link_int=\count198
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count199
+\l__fontspec_language_int=\count266
+\l__fontspec_strnum_int=\count267
+\l__fontspec_tmp_int=\count268
+\l__fontspec_tmpa_int=\count269
+\l__fontspec_tmpb_int=\count270
+\l__fontspec_tmpc_int=\count271
+\l__fontspec_em_int=\count272
+\l__fontspec_emdef_int=\count273
+\l__fontspec_strong_int=\count274
+\l__fontspec_strongdef_int=\count275
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip58
+\cftbeforetoctitleskip=\skip59
+\cftaftertoctitleskip=\skip60
+\cftbeforepartskip=\skip61
+\cftpartnumwidth=\skip62
+\cftpartindent=\skip63
+\cftbeforesecskip=\skip64
+\cftsecindent=\skip65
+\cftsecnumwidth=\skip66
+\cftbeforesubsecskip=\skip67
+\cftsubsecindent=\skip68
+\cftsubsecnumwidth=\skip69
+\cftbeforesubsubsecskip=\skip70
+\cftsubsubsecindent=\skip71
+\cftsubsubsecnumwidth=\skip72
+\cftbeforeparaskip=\skip73
+\cftparaindent=\skip74
+\cftparanumwidth=\skip75
+\cftbeforesubparaskip=\skip76
+\cftsubparaindent=\skip77
+\cftsubparanumwidth=\skip78
+\cftbeforeloftitleskip=\skip79
+\cftafterloftitleskip=\skip80
+\cftbeforefigskip=\skip81
+\cftfigindent=\skip82
+\cftfignumwidth=\skip83
+\c@lofdepth=\count276
+\c@lotdepth=\count277
+\cftbeforelottitleskip=\skip84
+\cftafterlottitleskip=\skip85
+\cftbeforetabskip=\skip86
+\cfttabindent=\skip87
+\cfttabnumwidth=\skip88
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip89
+\aftertitleunit=\skip90
+\ttl@plus=\dimen153
+\ttl@minus=\dimen154
+\ttl@toksa=\toks20
+\titlewidth=\dimen155
+\titlewidthlast=\dimen156
+\titlewidthfirst=\dimen157
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/crop/crop.sty
+Package: crop 2017/11/19 1.10 crop marks (mf)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+\stockwidth=\dimen158
+\stockheight=\dimen159
+\CROP@index=\count278
+\CROP@offset=\count279
+Package crop Info: Local config file crop.cfg used on input line 622.
+
+(/usr/local/texlive/2022/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+
+Package fontspec Info: Font family 'HelveticaNeue(0)' created for font
+(fontspec)             'HelveticaNeue' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/AAT:mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/B/AAT:mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/I/AAT:mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/BI/AAT:mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Color=RCRED].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;color=910803FF ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;color=910803FF ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;color=910803FF ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;color=910803FF ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'HelveticaNeue(1)' created for font
+(fontspec)             'HelveticaNeue' with options
+(fontspec)             [UprightFont={*-Light},Color=RCRED].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/AAT:color=910803FF ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/B/AAT:color=910803FF ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/I/AAT:color=910803FF ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/BI/AAT:color=910803FF ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'HelveticaNeue(2)' created for font
+(fontspec)             'HelveticaNeue' with options [UprightFont={*-Light}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/AAT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/B/AAT"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/I/AAT"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue-Light/BI/AAT"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'HelveticaNeue(3)' created for font
+(fontspec)             'HelveticaNeue' with options [Color=000000].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/AAT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/B/AAT"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/I/AAT"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/BI/AAT"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'HelveticaNeue(4)' created for font
+(fontspec)             'HelveticaNeue' with options [Color=RCRED].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/AAT:color=910803FF ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/B/AAT:color=910803FF ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/I/AAT:color=910803FF ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"HelveticaNeue/BI/AAT:color=910803FF ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(./modlitewnik-rc-2022.aux)
+\openout1 = `modlitewnik-rc-2022.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+7.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a6paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(54.06023pt, 216.24097pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 335.74254pt, 42.67912pt)
+* \paperwidth=298.75394pt
+* \paperheight=421.10078pt
+* \textwidth=216.24097pt
+* \textheight=335.74254pt
+* \oddsidemargin=-18.20976pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=131.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 87.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 87.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 87.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 87.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 87.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 87.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 87.
+LaTeX Font Info:    Redeclaring math accent \check on input line 87.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 87.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 87.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 87.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 87.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/HelveticaNeue(0)/m/n on input line 8
+7.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/HelveticaNeue(0)/m/n on input line 
+87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/HelveticaNeue(0)/m/n --> TU/HelveticaNeue(0)/m/n on 
+input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/HelveticaNeue(0)/m/it on input line
+ 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/HelveticaNeue(0)/b/n on input line 
+87.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/HelveticaNeue(0)/m/n --> TU/HelveticaNeue(0)/b/n on 
+input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/HelveticaNeue(0)/b/it on input lin
+e 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 87.
+Package crop Info: using `pdftex' graphics driver on input line 87.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 97.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 97.
+[1
+
+]
+
+Package fontspec Info: Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ [2]
+Overfull \hbox (3.50291pt too wide) in paragraph at lines 167--168
+[]\TU/TimesNewRoman(1)/m/n/9 W obliczu odpowiedzialności za odnowienie starego 
+i bar-
+ []
+
+
+Overfull \hbox (5.4602pt too wide) in paragraph at lines 167--168
+\TU/TimesNewRoman(1)/m/n/9 pójście w ślady pierwszych uczniów Mistrza. Chcieliś
+my spoj-
+ []
+
+[3]
+Underfull \vbox (badness 2644) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 2644) has occurred while \output is active []
+
+ [5]
+Overfull \hbox (2.66138pt too wide) in paragraph at lines 194--195
+[]\TU/TimesNewRoman(1)/m/n/9 Zespół projektowy przeprowadził ankietę zawierając
+ą py-
+ []
+
+
+Overfull \hbox (3.65259pt too wide) in paragraph at lines 197--198
+\TU/TimesNewRoman(1)/m/n/9 cowana przez komisję redakcyjną została zaproponowan
+a nie-
+ []
+
+
+Underfull \vbox (badness 2644) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 2644) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (3.46558pt too wide) in paragraph at lines 218--219
+[]\TU/TimesNewRoman(1)/m/n/9 Królowi, który nadchodzi, Panu, który się zbliża —
+ Pójdź-
+ []
+
+File: podpisy.png Graphic file (type bmp)
+<podpisy.png>
+[8] [9
+
+] [10
+
+] (./modlitewnik-rc-2022.toc
+Overfull \hbox (0.34706pt too wide) in paragraph at lines 13--13
+ [][] \TU/HelveticaNeue(0)/m/n/9 Nawiedzenie Najświętszego Sakramentu i ko- 
+ []
+
+[11]
+Underfull \vbox (badness 1533) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (2.04509pt too wide) in paragraph at lines 54--54
+ [][] \TU/HelveticaNeue(0)/m/n/9 Modlitwa powszechna przypisywana pa- 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `modlitewnik-rc-2022.toc'.
+
+ [13] [14
+
+]
+Overfull \hbox (2.08534pt too wide) in paragraph at lines 274--274
+|\TU/HelveticaNeue(0)/b/n/13 Wprowadzenie: „Panie, ucz nas mo-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
+
+]
+[16]
+Overfull \hbox (3.5412pt too wide) in paragraph at lines 295--296
+\TU/HelveticaNeue(4)/m/n/9 do modlitwy i codziennego życia. W szczególności zna
+j-
+ []
+
+
+Overfull \hbox (2.99603pt too wide) in paragraph at lines 295--296
+\TU/HelveticaNeue(4)/m/n/9 dziesz odniesienia do okresów liturgicznych, sakrame
+n-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \hbox (badness 1286) in paragraph at lines 314--315
+\TU/HelveticaNeue(4)/m/n/9 ne wyjątkowymi okazjami, wyjątkowymi sytuacjami
+ []
+
+[19]
+Overfull \hbox (2.52501pt too wide) in paragraph at lines 330--331
+\TU/HelveticaNeue(4)/m/n/9 kaj wewnętrznej i zewnętrznej ciszy. Staraj się mo-
+ []
+
+[20] [21]
+Overfull \hbox (2.1102pt too wide) in paragraph at lines 357--358
+\TU/HelveticaNeue(4)/m/n/9 głębienia początków, które tutaj oferujemy. W życiu 
+mo-
+ []
+
+
+Overfull \hbox (1.05205pt too wide) in paragraph at lines 357--358
+\TU/HelveticaNeue(4)/m/n/9 dlitwy są etapy, ale te późniejsze nie przekreślają 
+pierw-
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+\TU/HelveticaNeue(4)/m/n/9 wypełnienia i wykonania. Czas chronologiczny,
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 369--370
+\TU/HelveticaNeue(4)/m/n/9 ko uprzywilejowanego sposobu, aby Chrystus był
+ []
+
+[23
+
+]
+Underfull \vbox (badness 6032) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [25]
+Overfull \hbox (0.38004pt too wide) in paragraph at lines 402--403
+\TU/HelveticaNeue(4)/m/n/9 daje nam swoje Słowo, aby obudzić naszą wiarę i ocze
+-
+ []
+
+
+Overfull \hbox (1.92802pt too wide) in paragraph at lines 405--406
+[]\TU/HelveticaNeue(4)/m/n/9 Podczas ofiarowania darów (offertorium) kapłan w i
+mie-
+ []
+
+
+Underfull \vbox (badness 6032) has occurred while \output is active []
+
+ [26]
+Overfull \hbox (1.49603pt too wide) in paragraph at lines 408--409
+[]\TU/HelveticaNeue(4)/m/n/9 Liturgia eucharystyczna jest sercem i zwieńczeniem
+ ce-
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 411--412
+\TU/HelveticaNeue(4)/m/n/9 dzinne, społeczne, zawodowe i kulturowe. „Idźcie
+ []
+
+
+Overfull \hbox (1.84702pt too wide) in paragraph at lines 417--418
+[]\TU/HelveticaNeue(4)/m/n/9 Liturgia eucharystyczna jest pełna czynności, słów
+, mo-
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 417--418
+\TU/HelveticaNeue(4)/m/n/9 kiem: oczekiwania, skruchy, słuchania, uwielbienia,
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+\TU/HelveticaNeue(4)/m/n/9 gę bogactwo sakramentu i zalecenia Kościoła,
+ []
+
+[28]
+Overfull \hbox (1.40604pt too wide) in paragraph at lines 442--443
+\TU/HelveticaNeue(4)/m/n/9 tkanie w codzienności, w każdych okolicznościach, po
+-
+ []
+
+
+Overfull \hbox (0.10103pt too wide) in paragraph at lines 442--443
+\TU/HelveticaNeue(4)/m/n/9 śród trosk tego życia (por. Mt 6, 34). Jesteśmy wdzi
+ęcz-
+ []
+
+
+Overfull \hbox (1.12704pt too wide) in paragraph at lines 445--446
+[]\TU/HelveticaNeue(4)/m/n/9 Poświęcamy kilka minut na modlitwę, aby przypomnie
+ć
+ []
+
+
+Overfull \hbox (2.70204pt too wide) in paragraph at lines 448--449
+\TU/HelveticaNeue(4)/m/n/9 nienie Bogu i powierzenie wszystkiego, czego doświad
+-
+ []
+
+[29
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \hbox (badness 1902) in paragraph at lines 487--488
+\TU/HelveticaNeue(0)/m/n/9 nieskończonym miłosierdziem. Kocham Cię ponad
+ []
+
+
+Overfull \hbox (0.55101pt too wide) in paragraph at lines 487--488
+\TU/HelveticaNeue(0)/m/n/9 wszystko, ponieważ jesteś nieskończenie łaskawy i po
+-
+ []
+
+[31]
+Overfull \hbox (0.92903pt too wide) in paragraph at lines 499--500
+[]\TU/HelveticaNeue(0)/m/n/9 Duchu Święty, łagodny gospodarzu i pocieszycielu m
+o-
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 499--500
+\TU/HelveticaNeue(0)/m/n/9 jej duszy, przewodniku i mistrzu naszej przemiany
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Overfull \hbox (2.63303pt too wide) in paragraph at lines 519--520
+[]\TU/HelveticaNeue(4)/m/n/9 Medytacja lub „modlitwa myślna” ułatwia intymny i 
+oso-
+ []
+
+[33]
+Overfull \hbox (0.23604pt too wide) in paragraph at lines 537--539
+\TU/HelveticaNeue(4)/m/n/9 W: \TU/HelveticaNeue(0)/m/n/9 Napełnij serca Twoich 
+wiernych i rozpal w nich ogień
+ []
+
+[34]
+Overfull \hbox (3.68004pt too wide) in paragraph at lines 545--547
+\TU/HelveticaNeue(0)/m/n/9 prawe i Jego pociechą zawsze się radować. Przez Chry
+-
+ []
+
+
+Overfull \hbox (2.75002pt too wide) in paragraph at lines 555--556
+\TU/HelveticaNeue(4)/m/n/9 mego boku, i nie bądź niedowiarkiem, lecz wierzącym!
+”.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Overfull \hbox (1.05504pt too wide) in paragraph at lines 558--559
+[]\TU/HelveticaNeue(4)/m/n/9 Nadzieja: zaufanie Bogu jako najwyższemu dobru, tw
+o-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+[37]
+Overfull \hbox (4.57399pt too wide) in paragraph at lines 594--596
+\TU/HelveticaNeue(4)/m/n/9 W: \TU/HelveticaNeue(0)/m/n/9 Święta Maryjo, Matko B
+oża, módl się za nami grzesz-
+ []
+
+
+Overfull \hbox (0.90205pt too wide) in paragraph at lines 616--617
+\TU/HelveticaNeue(0)/m/n/9 Anielskim wcielenie Chrystusa Syna Twojego, przez Je
+-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \hbox (badness 1748) in paragraph at lines 670--671
+\TU/HelveticaNeue(0)/m/n/9 Opatrzność powierzyła mnie Tobie, oświecaj mnie
+ []
+
+
+Overfull \hbox (0.92305pt too wide) in paragraph at lines 676--677
+[]\TU/HelveticaNeue(0)/m/n/9 Aniele Pański, który prowadzisz mnie, badź moim św
+ia-
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 686--687
+\TU/HelveticaNeue(4)/m/n/9 dlitwie Jezusowej, typowej dla chrześcijańskiego
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Overfull \hbox (3.19704pt too wide) in paragraph at lines 689--690
+\TU/HelveticaNeue(4)/m/n/9 wiennictwo. Modlitwa ta przynosi pokój duszy, zaszcz
+e-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 692--693
+[]\TU/HelveticaNeue(4)/m/n/9 Podczas odmawiania \TU/HelveticaNeue(4)/m/it/9 Ojc
+ze nasz\TU/HelveticaNeue(4)/m/n/9 , \TU/HelveticaNeue(4)/m/it/9 Zdrowaś Maryjo
+ []
+
+[41] [42]
+Overfull \hbox (0.77602pt too wide) in paragraph at lines 723--724
+[]\TU/HelveticaNeue(4)/m/n/9 L: \TU/HelveticaNeue(0)/m/n/9 „Na to rzekła Maryja
+: Oto ja służebnica Pańska, niech
+ []
+
+
+Overfull \hbox (2.88504pt too wide) in paragraph at lines 738--739
+[]\TU/HelveticaNeue(4)/m/n/9 P: \TU/HelveticaNeue(0)/m/n/9 Tajemnica czwarta: O
+fiarowanie Pana Jezusa w świą-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+Overfull \hbox (1.03404pt too wide) in paragraph at lines 852--853
+[]\TU/HelveticaNeue(4)/m/n/9 P: \TU/HelveticaNeue(0)/m/n/9 Tajemnica czwarta: W
+niebowzięcie Najświętszej Ma-
+ []
+
+
+Overfull \hbox (0.23003pt too wide) in paragraph at lines 874--875
+[]\TU/HelveticaNeue(0)/m/n/9 Witaj Królowo, Matko Miłosierdzia, życie, słodyczy
+ i na-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Overfull \hbox (1.78401pt too wide) in paragraph at lines 953--954
+[]\TU/HelveticaNeue(4)/m/n/9 P: \TU/HelveticaNeue(0)/m/n/9 Módlmy się: Panie, n
+asz Boże, daj nam, sługom swo-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Overfull \hbox (2.04504pt too wide) in paragraph at lines 985--986
+[]\TU/HelveticaNeue(4)/m/n/9 Dzieciątko Jezus zagubione i odnalezione w świą-
+ []
+
+[52]
+Overfull \hbox (1.19603pt too wide) in paragraph at lines 1022--1023
+[]\TU/HelveticaNeue(4)/m/n/9 Głoszenie Królestwa Bożego zapraszające do na-
+ []
+
+
+Overfull \hbox (0.23003pt too wide) in paragraph at lines 1037--1038
+[]\TU/HelveticaNeue(0)/m/n/9 Witaj Królowo, Matko Miłosierdzia, życie, słodyczy
+ i na-
+ []
+
+[53]
+Overfull \hbox (2.24303pt too wide) in paragraph at lines 1046--1047
+\TU/HelveticaNeue(4)/m/n/9 obecnego w Eucharystii, można nawiązać duchową ko-
+ []
+
+[54]
+Overfull \hbox (0.86304pt too wide) in paragraph at lines 1072--1073
+\TU/HelveticaNeue(0)/m/n/9 oraz za to, że mnie wybawiłeś od tylu niebezpieczeńs
+tw
+ []
+
+[55]
+Overfull \hbox (1.56503pt too wide) in paragraph at lines 1085--1086
+\TU/HelveticaNeue(0)/m/n/9 rodów: Światło na oświecenie pogan i chwałę ludu Twe
+-
+ []
+
+[56]
+Overfull \hbox (0.23003pt too wide) in paragraph at lines 1104--1105
+[]\TU/HelveticaNeue(0)/m/n/9 Witaj Królowo, Matko Miłosierdzia, życie, słodyczy
+ i na-
+ []
+
+[57] [58
+
+] [59]
+Overfull \hbox (1.03102pt too wide) in paragraph at lines 1120--1122
+\TU/HelveticaNeue(4)/m/n/9 żyna, zebrana przez Pana, żyje życiem modlitwy wspól
+-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 1120--1122
+\TU/HelveticaNeue(4)/m/n/9 czeństwie. „Spotkanie z Chrystusem znajduje się
+ []
+
+
+Overfull \hbox (0.7272pt too wide) in paragraph at lines 1120--1122
+\TU/HelveticaNeue(4)/m/n/9 w centrum życia drużyny. W jego trakcie świeccy czło
+n-
+ []
+
+[60]
+Overfull \hbox (2.58502pt too wide) in paragraph at lines 1127--1128
+[]\TU/HelveticaNeue(4)/m/n/9 Rozpoczynamy tę aktywność modlitwą do Ducha Świę-
+ []
+
+
+Overfull \hbox (3.72804pt too wide) in paragraph at lines 1142--1143
+\TU/HelveticaNeue(4)/m/n/9 krycia najlepszego sposobu realizacji naszej misji e
+wan-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+[62]
+Overfull \hbox (2.26102pt too wide) in paragraph at lines 1172--1173
+[]\TU/HelveticaNeue(4)/m/n/9 Po uświadomieniu sobie obecności „pszenicy” i „chw
+a-
+ []
+
+[63]
+Overfull \hbox (1.22002pt too wide) in paragraph at lines 1176--1177
+[]\TU/HelveticaNeue(4)/m/n/9 Jakie wartości i antywartości widzimy w tym przy-
+ []
+
+
+Overfull \hbox (4.61005pt too wide) in paragraph at lines 1177--1178
+[]\TU/HelveticaNeue(4)/m/n/9 Jaki fragment Ewangelii przypomina nam ten przy-
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 1179--1180
+[]\TU/HelveticaNeue(4)/m/n/9 Jakie wymagania stawia to przed nami jako
+ []
+
+
+Overfull \hbox (3.08904pt too wide) in paragraph at lines 1179--1180
+\TU/HelveticaNeue(4)/m/n/9 uczniami-misjonarzami podążającymi za Chrystu-
+ []
+
+[64]
+Overfull \hbox (0.77902pt too wide) in paragraph at lines 1206--1207
+\TU/HelveticaNeue(4)/m/n/9 Godziny jest prośba Jezusa w Getsemani: „Smutna jest
+
+ []
+
+
+Overfull \hbox (0.13104pt too wide) in paragraph at lines 1206--1207
+\TU/HelveticaNeue(4)/m/n/9 Mną!” (Mt 26, 38). Innym razem adoracja eucharystycz
+-
+ []
+
+[65] [66] [67] [68
+
+]
+Underfull \hbox (badness 2653) in paragraph at lines 1250--1252
+\TU/HelveticaNeue(4)/m/n/9 niem na potrójne przyjście Jezusa, ponieważ On
+ []
+
+[69]
+Underfull \hbox (badness 1552) in paragraph at lines 1254--1255
+\TU/HelveticaNeue(4)/m/n/9 wa się szczególne wspomnienie Zbawiciela. Msza
+ []
+
+
+Overfull \hbox (0.73102pt too wide) in paragraph at lines 1254--1255
+\TU/HelveticaNeue(4)/m/n/9 wyrazisty moment działania Ducha Świętego. Boże Na-
+ []
+
+[70] [71]
+Overfull \hbox (1.42401pt too wide) in paragraph at lines 1268--1269
+[]\TU/HelveticaNeue(4)/m/n/9 Triduum Paschalne (od Wielkiego Czwartku do Niedzi
+e-
+ []
+
+
+Overfull \hbox (3.71902pt too wide) in paragraph at lines 1268--1269
+\TU/HelveticaNeue(4)/m/n/9 adoracji towarzyszący Chrystusowi Eucharystycznemu.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+Overfull \hbox (1.7352pt too wide) in paragraph at lines 1295--1297
+[]\TU/HelveticaNeue(4)/m/n/9 L: \TU/HelveticaNeue(0)/m/n/9 A kiedy przyszli do 
+ogrodu zwanego Getsemani, rzekł
+ []
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Overfull \hbox (1.11203pt too wide) in paragraph at lines 1348--1349
+\TU/HelveticaNeue(0)/m/n/9 nić z tym, którego nazywacie Królem Żydowskim?” Od-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+Overfull \hbox (2.90302pt too wide) in paragraph at lines 1426--1427
+[]\TU/HelveticaNeue(4)/m/n/9 L: \TU/HelveticaNeue(0)/m/n/9 Jeden ze złoczyńców,
+ których [tam] powieszono, urą-
+ []
+
+
+Overfull \hbox (5.90903pt too wide) in paragraph at lines 1432--1433
+[]\TU/HelveticaNeue(4)/b/n/9 Stacja dwunasta: Matka i umiłowany uczeń pod krzy-
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Overfull \hbox (2.89403pt too wide) in paragraph at lines 1465--1466
+\TU/HelveticaNeue(0)/m/n/9 uchwałę i postępowanie. Był z miasta żydowskiego Ary
+-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+Overfull \hbox (2.23102pt too wide) in paragraph at lines 1480--1481
+\TU/HelveticaNeue(4)/m/n/9 szym Królem” oraz bliskim i czułym towarzyszem, z kt
+ó-
+ []
+
+[85]
+Overfull \hbox (0.45503pt too wide) in paragraph at lines 1483--1484
+\TU/HelveticaNeue(4)/m/n/9 stus jest wcielonym Królestwem. On, który pragnie kr
+ó-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+Overfull \hbox (7.97571pt too wide) in paragraph at lines 1491--1491
+|\TU/HelveticaNeue(0)/b/n/11 Odnowienie przystąpienia do Regnum Chri-
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 1494--1495
+\TU/HelveticaNeue(4)/m/n/9 eucharystycznej w Uroczystość Chrystusa Króla,
+ []
+
+[87]
+Overfull \hbox (5.55803pt too wide) in paragraph at lines 1528--1529
+\TU/HelveticaNeue(0)/m/n/9 skiego posłuszeństwa i czystości w myślach i dzia-
+ []
+
+
+Overfull \hbox (0.52104pt too wide) in paragraph at lines 1529--1530
+[]\TU/HelveticaNeue(0)/m/n/9 wypełniania z miłością i uczciwością obowiązków
+ []
+
+[88
+
+] [89]
+Overfull \hbox (0.90202pt too wide) in paragraph at lines 1547--1548
+[]\TU/HelveticaNeue(4)/m/n/9 Ćwiczenia duchowe są coroczną okazją, którą Regnum
+
+ []
+
+
+Overfull \hbox (3.02603pt too wide) in paragraph at lines 1553--1554
+\TU/HelveticaNeue(4)/m/n/9 sprzyja pokorze, pomaga wykorzenić złe nawyki, zwięk
+-
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 1556--1557
+[]\TU/HelveticaNeue(4)/m/n/9 Przystąp do sakramentu, wyrażając swoją wiarę
+ []
+
+
+Overfull \hbox (6.39804pt too wide) in paragraph at lines 1556--1557
+\TU/HelveticaNeue(4)/m/n/9 dziwym duchu zadośćuczynienia. Ofiaruj swoje codzien
+-
+ []
+
+[90
+
+]
+Overfull \hbox (3.36205pt too wide) in paragraph at lines 1565--1566
+\TU/HelveticaNeue(0)/m/n/9 łaskę szczerego wejrzenia w nie, abym odkrył(a) wszy
+st-
+ []
+
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+ [91]
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [92]
+Overfull \hbox (2.21902pt too wide) in paragraph at lines 1604--1605
+\TU/HelveticaNeue(0)/m/n/9 na, i zesłał Ducha Świętego na odpuszczenie grzechów
+,
+ []
+
+
+Overfull \hbox (0.23604pt too wide) in paragraph at lines 1631--1633
+\TU/HelveticaNeue(4)/m/n/9 W: \TU/HelveticaNeue(0)/m/n/9 Napełnij serca Twoich 
+wiernych i rozpal w nich ogień
+ []
+
+[93]
+Overfull \hbox (3.68004pt too wide) in paragraph at lines 1639--1641
+\TU/HelveticaNeue(0)/m/n/9 prawe i Jego pociechą zawsze się radować. Przez Chry
+-
+ []
+
+
+Overfull \hbox (1.60104pt too wide) in paragraph at lines 1664--1665
+\TU/HelveticaNeue(0)/m/n/9 Ty nam objawiłeś tajemnicę miłości, która płonie w T
+wo-
+ []
+
+[94]
+Overfull \hbox (0.70102pt too wide) in paragraph at lines 1670--1671
+\TU/HelveticaNeue(0)/m/n/9 wsłuchiwał(a) się w potrzeby innych. Włóż Słowo w mo
+-
+ []
+
+[95]
+Overfull \hbox (2.52502pt too wide) in paragraph at lines 1676--1677
+\TU/HelveticaNeue(0)/m/n/9 a przeciw niegodziwości i zasadzkom złego ducha bądź
+
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 1682--1686
+\TU/HelveticaNeue(0)/m/n/9 byśmy byli dzielnymi członkami Twojego Kościoła.
+ []
+
+[96] [97]
+Overfull \hbox (2.033pt too wide) in paragraph at lines 1706--1708
+\TU/HelveticaNeue(0)/m/n/9 stworzyłeś mężczyznę i kobietę, aby byli dla siebie 
+wza-
+ []
+
+
+Overfull \hbox (2.13203pt too wide) in paragraph at lines 1706--1708
+\TU/HelveticaNeue(0)/m/n/9 jemnie pomocą i wsparciem. Pamiętaj dziś o nas. Chro
+ń
+ []
+
+[98] [99] [100]
+Underfull \hbox (badness 1910) in paragraph at lines 1753--1754
+[]\TU/HelveticaNeue(0)/m/n/9 Ty zechciałeś Panie, aby Twój Syn Jednorodzony
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1754
+\TU/HelveticaNeue(0)/m/n/9 smutkowi czy chorobie, poczuli się wybranymi
+ []
+
+[101]
+Overfull \hbox (0.71902pt too wide) in paragraph at lines 1759--1760
+\TU/HelveticaNeue(0)/m/n/9 skażone złością innych ludzi. Wlej, Panie, w nasze w
+nę-
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 1772--1774
+\TU/HelveticaNeue(0)/m/n/9 cia chrześcijańskiego. Amen. Wspomożenie Boże
+ []
+
+[102]
+Overfull \hbox (4.06705pt too wide) in paragraph at lines 1779--1781
+\TU/HelveticaNeue(0)/m/n/9 udział w Jego zmartwychwstaniu, kiedy to za Jego spr
+a-
+ []
+
+
+Overfull \hbox (0.42506pt too wide) in paragraph at lines 1788--1789
+\TU/HelveticaNeue(0)/m/n/9 Swojego Syna na śmierć za nas, obdarz nas łaską, aby
+-
+ []
+
+[103] [104]
+Overfull \hbox (3.67703pt too wide) in paragraph at lines 1837--1837
+|\TU/HelveticaNeue(0)/b/n/9 Modlitwa powszechna przypisywana papieżowi Kle-
+ []
+
+[105]
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+ [106]
+Overfull \hbox (0.39502pt too wide) in paragraph at lines 1847--1848
+\TU/HelveticaNeue(0)/m/n/9 wielkości tego, co boskie, przemijania tego życia i 
+przy-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107]
+Underfull \hbox (badness 2662) in paragraph at lines 1862--1864
+[]\TU/HelveticaNeue(0)/m/n/9 O Jezu Chryste, Ty jesteś Królem wszechświata.
+ []
+
+
+Overfull \hbox (3.47903pt too wide) in paragraph at lines 1875--1876
+\TU/HelveticaNeue(0)/m/n/9 ścioła. Mocno wierzę, że przez niego rządzisz, naucz
+asz
+ []
+
+[108]
+Overfull \hbox (2.2002pt too wide) in paragraph at lines 1881--1882
+[]\TU/HelveticaNeue(0)/m/n/9 O Jezu, wieczny pasterzu dusz! Zechciej spojrzeć o
+czy-
+ []
+
+[109]
+Underfull \hbox (badness 4713) in paragraph at lines 1902--1903
+\TU/HelveticaNeue(0)/m/n/9 przyjdź królestwo Twoje; bądź wola Twoja, jako
+ []
+
+[110
+
+] [111
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+[114]
+Overfull \hbox (0.23003pt too wide) in paragraph at lines 2035--2036
+[]\TU/HelveticaNeue(0)/m/n/9 Witaj Królowo, Matko Miłosierdzia, życie, słodyczy
+ i na-
+ []
+
+
+Overfull \hbox (6.12503pt too wide) in paragraph at lines 2041--2043
+[]\TU/HelveticaNeue(0)/m/n/9 Salve Regina, Mater misericordiae, vita, dulcedo, 
+et spes
+ []
+
+[115
+
+]
+Overfull \hbox (0.48204pt too wide) in paragraph at lines 2069--2070
+[]\TU/HelveticaNeue(0)/m/n/9 Agimus tibi grátias, omnípotens Deus, pro univérsi
+s be-
+ []
+
+[116
+
+] [117] [118
+
+] (./modlitewnik-rc-2022.aux) ) 
+Here is how much of TeX's memory you used:
+ 5781 strings out of 476179
+ 144504 string characters out of 5809545
+ 502243 words of memory out of 5000000
+ 26433 multiletter control sequences out of 15000+600000
+ 471942 words of font info for 87 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,12n,77p,1301b,362s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on modlitewnik-rc-2022.pdf (118 pages).
